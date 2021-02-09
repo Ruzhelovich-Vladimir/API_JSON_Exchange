@@ -1,0 +1,7 @@
+{
+    "supplierId": 0,
+    "login": "login",
+    "password": "password",
+    "post_path": "post",
+    "get_path": "get"
+}

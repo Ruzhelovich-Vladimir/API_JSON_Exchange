@@ -1,0 +1,17 @@
+{
+    "protocol": "https",
+    "server": "servername",
+    "catalog": "/catalog",
+    "login": {
+        "type": "POST",
+        "method": "login"
+    },
+    "plan": [
+        {
+            "type": "POST",
+            "method": "mathod",
+            "json_data_path": "filename.json",
+            "successful_execution": "[]"
+        }
+    ]
+}
