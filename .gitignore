@@ -511,3 +511,5 @@ env/
 *.sql
 *.log
 *.rar
+*.jpg
+*.zip

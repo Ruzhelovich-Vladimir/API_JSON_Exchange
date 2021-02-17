@@ -1,7 +1,7 @@
 {
     "protocol": "https",
     "server": "servername",
-    "catalog": "/catalog",
+    "catalog": "/catalog/",
     "login": {
         "type": "POST",
         "method": "login"
